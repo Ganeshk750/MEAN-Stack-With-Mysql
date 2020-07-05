@@ -1,0 +1,28 @@
+{
+  "name": "noderestfulapi",
+  "version": "1.0.0",
+  "description": "MEAN-Stack-With-Mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ganeshk750/MEAN-Stack-With-Mysql.git"
+  },
+  "keywords": [
+    "Angular",
+    "Nodejs",
+    "Express",
+    "Mysql"
+  ],
+  "author": "Ganeshk750",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ganeshk750/MEAN-Stack-With-Mysql/issues"
+  },
+  "homepage": "https://github.com/Ganeshk750/MEAN-Stack-With-Mysql#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
