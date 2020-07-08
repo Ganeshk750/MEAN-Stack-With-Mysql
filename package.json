@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/Ganeshk750/MEAN-Stack-With-Mysql#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
   }
 }
