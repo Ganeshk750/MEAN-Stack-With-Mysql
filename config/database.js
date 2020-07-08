@@ -8,3 +8,5 @@ const pool = createPool({
     database: "test",
     connectionLimit: 10
 })
+
+module.exports = pool;
