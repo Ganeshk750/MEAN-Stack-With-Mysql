@@ -5,7 +5,7 @@ const app = express();
 app.get("/api", (req, res) => {
   res.json({
     success: 1,
-    message: "Out Rest Api is Working Now!!",
+    message: "Our Rest Api is Working Now!!",
   });
 });
 
